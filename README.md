@@ -28,7 +28,6 @@ As someone living in Bengaluru, I always wondered can a fresher actually afford 
 - Power BI dashboard — 4 interactive pages
 
 ## What I Learned
-This was my most relatable project — I literally googled rent prices in BTM Layout while building 
-this! The data confirmed what every Bengaluru 
+This was my most relatable project - I literally googled rent prices in BTM Layout while building this! The data confirmed what every Bengaluru 
 fresher already feels — this city is beautiful 
 but expensive! 
